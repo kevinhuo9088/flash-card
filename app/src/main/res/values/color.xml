@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textbox_background">#FFC9C6C7</color>
+    <color name="front_card">#0066FF</color>
+    <color name="back_card">#FF16FF4F</color>
+    <color name="text">#FFFFFF</color>
+</resources>

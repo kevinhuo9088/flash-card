@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+ \
+    <string name="hello_world">Hello world!</string>
+
+    <string name="app_name">FlashCards</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="new_deck">New Deck</string>
+    <string name="new_deck_hint">Enter new deck name</string>
+    <string name="create_deck">Create Deck</string>
+    <string name="decks">Decks</string>
+
+    <!-- create_card_activity.xml -->
+    <string name="question_edit">Enter your question here...</string>
+    <string name="answer_edit">Enter your answer here...</string>
+    <string name="add_card">Add Card</string>
+    <string name="done">Done</string>
+
+    <!-- options_activity.xml -->
+    <string name="study_deck">Study Deck</string>
+    <string name="delete_deck">Delete Deck</string>
+    <string name="deck_list">Deck List</string>
+    <string name="grades">Grades</string>
+    <string name="edit_deck">Edit Deck</string>
+
+    <!-- edit_deck_table_activitytivity.xml -->
+    <string name="options">Options</string>
+
+    <!-- edit_card_activity.xml -->
+    <string name="edit_card">Edit Card</string>
+    <string name="card_table">Card Table</string>
+
+    <!--  study_card_activity.xml -->
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="answer">Answer</string>
+
+    <!-- deck_score_activity -->
+    <string name="ok">OK</string>
+</resources>
